@@ -1,0 +1,9 @@
+C:\Users\777\source\repos\RegressionLineApp\RegressionLineApp\bin\x64\Release\RegressionLineApp.exe.config
+C:\Users\777\source\repos\RegressionLineApp\RegressionLineApp\bin\x64\Release\RegressionLineApp.exe
+C:\Users\777\source\repos\RegressionLineApp\RegressionLineApp\bin\x64\Release\RegressionLineApp.pdb
+C:\Users\777\source\repos\RegressionLineApp\RegressionLineApp\obj\x64\Release\RegressionLineApp.RegressionLine.resources
+C:\Users\777\source\repos\RegressionLineApp\RegressionLineApp\obj\x64\Release\RegressionLineApp.Properties.Resources.resources
+C:\Users\777\source\repos\RegressionLineApp\RegressionLineApp\obj\x64\Release\RegressionLineApp.csproj.GenerateResource.cache
+C:\Users\777\source\repos\RegressionLineApp\RegressionLineApp\obj\x64\Release\RegressionLineApp.csproj.CoreCompileInputs.cache
+C:\Users\777\source\repos\RegressionLineApp\RegressionLineApp\obj\x64\Release\RegressionLineApp.exe
+C:\Users\777\source\repos\RegressionLineApp\RegressionLineApp\obj\x64\Release\RegressionLineApp.pdb
